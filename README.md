@@ -1,4 +1,4 @@
 hello conflict
-demo2 on fetch
+test conflict
 branch demo
 hello conflict
